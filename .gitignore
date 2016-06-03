@@ -61,3 +61,9 @@ target/
 #Ipython Notebook
 .ipynb_checkpoints
 simpledb/ 
+
+authors_data.csv
+authors_type.csv
+simple_database/testing.py
+table1_data.csv
+table1_type.csv
